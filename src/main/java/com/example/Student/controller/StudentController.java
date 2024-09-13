@@ -20,7 +20,7 @@ public class StudentController {
         return studentService.addStudentData(student);
     }
 
-   // for pulling the changes 
+   // git
 
 
 
