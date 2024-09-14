@@ -19,6 +19,5 @@ public class StudentController {
     public Student addStduentData(@RequestBody Student student){
         return studentService.addStudentData(student);
     }
-
-
+   // new changes
 }
